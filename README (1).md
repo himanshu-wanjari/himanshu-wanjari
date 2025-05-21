@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/himanshuwanjari/himanshuwanjari/blob/main/A_professional_digital_graphic_banner_showcases_Hi.png" alt="Hi, I'm Himanshu Wanjari" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
 <h3 align="center">Data Scientist | Machine Learning Expert | NLP | Gen AI | AI Engineer | Data Analysis | Statistics & Optimization | Python  |</h3>
 
