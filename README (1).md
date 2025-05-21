@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
-<h3 align="center">Data Science | Machine Learning | NLP | Generative AI | Data Analysis</h3>
+<h3 align="center">Data Scientist | Machine Learning Expert | NLP | Gen AI | AI Engineer | Data Analysis | Statistics & Optimization | Python  |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshuwanjari&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuwanjari" />
