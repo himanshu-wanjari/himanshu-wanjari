@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/himanshuwanjari/himanshuwanjari/blob/main/HIman_Image_github.png" alt="Hi, I'm Himanshu Wanjari" />
+  <img src="https://github.com/himanshu-wanjari/himanshu-wanjari/blob/main/HIman_Image_github.png" alt="Hi, I'm Himanshu Wanjari" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
