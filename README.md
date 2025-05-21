@@ -95,7 +95,7 @@ I'm passionate about solving real-world problems through data, models, and intel
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/himanshuwanjari)
 - [Portfolio](#) (Coming Soon!)
-- ✉️ Email: himanshuwanjari99@gmail.com
+- ✉️ Email: himanshuwanjari85@gmail.com
 
 ---
 
