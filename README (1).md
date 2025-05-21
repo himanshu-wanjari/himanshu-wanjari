@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
-<h3 align="center">Data Science | Machine Learning | NLP | Generative AI | Modeling & Simulation</h3>
+<h3 align="center">Data Science | Machine Learning | NLP | Generative AI | Data Analysis</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshuwanjari&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuwanjari" />
@@ -59,17 +59,3 @@
 - 🧠 **Smart Loan Recovery System** – GenAI + ML to simulate repayment, negotiate terms, detect fraud.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuwanjari&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuwanjari&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuwanjari&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
----
-
-<p align="center">
-  <em>“Driven by data. Inspired by innovation. Empowered by learning.”</em>
-</p>
