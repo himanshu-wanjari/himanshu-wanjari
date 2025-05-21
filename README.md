@@ -99,4 +99,7 @@ I'm passionate about solving real-world problems through data, models, and intel
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=himanshuwanjari&color=brightgreen)
+
+
 *Thanks for visiting! ⭐*
