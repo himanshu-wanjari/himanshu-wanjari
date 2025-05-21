@@ -16,6 +16,32 @@
 🌟 Passionate about transforming data into impactful insights and user-friendly applications.
 
 ---
+
+### 📂 Projects Showcase
+
+#### 🧠 Machine Learning Projects
+- 🏠 **House Price Prediction** – Regression-based ML model to estimate house prices.
+- 💳 **Credit Card Fraud Detection** – Classification model to detect anomalies in transactions.
+- ❤️ **Heart Disease Prediction** – Predictive analytics on patient data using logistic regression.
+
+#### 🧠 Deep Learning Projects
+- 🔬 **Breast Cancer Classification** – CNN for accurate tumor classification.
+- 🧠 **LSTM Stock Price Forecasting** – Sequential deep learning model for time series data.
+
+#### 🗣️ NLP Projects
+- 🗞️ **Financial News Sentiment Analysis** – LSTM + Doc2Vec pipeline for classifying news headlines.
+- 🔍 **NLP-Powered News Research Tool** – LangChain + OpenAI + Streamlit to query financial articles.
+
+#### 📊 Data Analysis Projects
+- 🌿 **Biodiversity Time Series Analysis** – Data wrangling and seasonal trend analysis.
+- 🌐 **Global COVID-19 Visualization Dashboard** – Data insights using Tableau and Python.
+
+#### 🤖 GenAI Projects
+- 🧾 **Document Analyzer with LLMs** – T5 and NLP stack for extracting and summarizing PDF content.
+- 💬 **AI-Powered Health Assistant** – LLM-based assistant for answering health-related queries.
+- 🧠 **Smart Loan Recovery System** – GenAI + ML to simulate repayment, negotiate terms, detect fraud.
+
+---
 ## 🛠️ Technical Toolbox
 
 ### 📌 Languages & Libraries  
@@ -84,34 +110,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
 ![Conda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
 
-
----
-
-### 📂 Projects Showcase
-
-#### 🧠 Machine Learning Projects
-- 🏠 **House Price Prediction** – Regression-based ML model to estimate house prices.
-- 💳 **Credit Card Fraud Detection** – Classification model to detect anomalies in transactions.
-- ❤️ **Heart Disease Prediction** – Predictive analytics on patient data using logistic regression.
-
-#### 🧠 Deep Learning Projects
-- 🔬 **Breast Cancer Classification** – CNN for accurate tumor classification.
-- 🧠 **LSTM Stock Price Forecasting** – Sequential deep learning model for time series data.
-
-#### 🗣️ NLP Projects
-- 🗞️ **Financial News Sentiment Analysis** – LSTM + Doc2Vec pipeline for classifying news headlines.
-- 🔍 **NLP-Powered News Research Tool** – LangChain + OpenAI + Streamlit to query financial articles.
-
-#### 📊 Data Analysis Projects
-- 🌿 **Biodiversity Time Series Analysis** – Data wrangling and seasonal trend analysis.
-- 🌐 **Global COVID-19 Visualization Dashboard** – Data insights using Tableau and Python.
-
-#### 🤖 GenAI Projects
-- 🧾 **Document Analyzer with LLMs** – T5 and NLP stack for extracting and summarizing PDF content.
-- 💬 **AI-Powered Health Assistant** – LLM-based assistant for answering health-related queries.
-- 🧠 **Smart Loan Recovery System** – GenAI + ML to simulate repayment, negotiate terms, detect fraud.
-
----
 
 ---
 
