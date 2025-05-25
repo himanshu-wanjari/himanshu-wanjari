@@ -21,7 +21,7 @@
 ### 🏢 Experience
 
 **Data Science Intern – Electronica Finance Ltd.**  
-📍 Pune, Maharashtra | 🗓 Jan 2024 – June 2024  
+📍 Pune, Maharashtra | 🗓 Dec 2024 – May 2025  
 - Developed machine learning models to assess credit risk and support portfolio decision-making  
 - Automated financial analytics workflows using Python and SQL  
 - Built interactive dashboards in Power BI for executive-level insights  
