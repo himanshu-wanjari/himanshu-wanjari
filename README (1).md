@@ -12,10 +12,24 @@
 🎓 M.Tech in Modeling & Simulation, SPPU  
 🔬 Expertise in Machine Learning, Deep Learning, NLP, LLMs, Generative AI, Financial Data Science  
 📈 Experience in building and deploying real-world AI applications, automation tools, and GenAI solutions  
-🛠️ Tech Stack: Python, SQL, Power BI, Excel, Tableau, Streamlit, LangChain, OpenAI API, Git  
+🧠 Skilled in model development, evaluation, deployment, and performance monitoring  
+🛠️ Tech Stack: Python, scikit-learn, PyTorch, TensorFlow, Hugging Face, SQL, Streamlit, LangChain, FastAPI, Git  
 🌟 Passionate about transforming ideas into scalable, intelligent systems
 
 ---
+
+### 🏢 Experience
+
+**Data Science Intern – Electronica Finance Ltd.**  
+📍 Pune, Maharashtra | 🗓 Jan 2024 – June 2024  
+- Developed machine learning models to assess credit risk and support portfolio decision-making  
+- Automated financial analytics workflows using Python and SQL  
+- Built interactive dashboards in Power BI for executive-level insights  
+- Contributed to a Smart Loan Recovery System integrating ML and Generative AI for borrower simulation, fraud detection, and chatbot-based negotiation  
+- Applied LLM-based solutions for document parsing and process automation in credit underwriting
+
+---
+
 
 ### 📂 Featured Projects
 
