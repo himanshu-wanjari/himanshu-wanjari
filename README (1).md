@@ -77,10 +77,3 @@
 <p align="center"><b>📁 Explore my repositories below ⬇️</b></p>
 
 ---
-
-## 📌 Pinned Repositories
-
-- [Heart Disease Prediction ML](https://github.com/himanshu-wanjari/Heart-Disease-Prediction_ML)
-<!-- Add more pinned repos as needed, e.g.:
-- [Another Project](https://github.com/himanshu-wanjari/Another-Project)
--->
