@@ -1,5 +1,5 @@
-  <h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
-<h3 align="center">Data Scientist | Machine Learning Expert | NLP | Gen AI | AI Engineer | Data Analysis | Statistics & Optimization | Python  |</h3>
+<h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer | NLP | GenAI | AI Developer | Analytics | Python | LLM Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshuwanjari&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuwanjari" />
@@ -9,69 +9,69 @@
 
 ### 🧠 About Me
 
-🎓 M.Tech in Modeling & Simulation, SPPU.  
-🔬 Skilled in Machine Learning, Deep Learning, NLP, Generative AI, Data Analytics, and Mathematical Modeling.  
-📊 Experienced in building real-world AI solutions — from predictive analytics to GenAI-powered tools.  
-🛠️ Tools: Python, R, SQL, Excel, Tableau, Power BI, Streamlit, Git, LangChain, OpenAI API.  
-🌟 Passionate about transforming data into impactful insights and user-friendly applications.
+🎓 M.Tech in Modeling & Simulation, SPPU  
+🔬 Expertise in Machine Learning, Deep Learning, NLP, LLMs, Generative AI, Financial Data Science  
+📈 Experience in building and deploying real-world AI applications, automation tools, and GenAI solutions  
+🛠️ Tech Stack: Python, SQL, Power BI, Excel, Tableau, Streamlit, LangChain, OpenAI API, Git  
+🌟 Passionate about transforming ideas into scalable, intelligent systems
 
 ---
 
-### 📂 Projects Showcase
+### 📂 Featured Projects
 
-#### 🧠 Machine Learning Projects
-- 🏠 **House Price Prediction** – Regression-based ML model to estimate house prices.
-- 💳 **Credit Card Fraud Detection** – Classification model to detect anomalies in transactions.
+#### 🧠 Predictive Modeling & ML Systems
+- 💳 **Credit Card Fraud Detection** – Built classification model to detect fraudulent transactions.
 - ❤️ **Heart Disease Prediction** – Predictive analytics on patient data using logistic regression.
+- 📉 **Customer Churn Prediction** – Identified potential churners in telecom data.
+- 🎯 **Medical Insurance Cost Prediction** – Regression-based pricing model.
 
-#### 🧠 Deep Learning Projects
-- 🔬 **Breast Cancer Classification** – CNN for accurate tumor classification.
-- 🧠 **LSTM Stock Price Forecasting** – Sequential deep learning model for time series data.
+#### 🔬 Deep Learning Applications
+- 🧠 **Breast Cancer Classification** – Binary classification using deep neural networks.
+- 🔊 **Sonar Rock vs Mine Prediction** – Sonar signal classification with ANN.
+- ⌨️ **Predictive Keyboard Model** – LSTM/Transformer to auto-suggest next words like mobile keyboards.
 
-#### 🗣️ NLP Projects
-- 🗞️ **Financial News Sentiment Analysis** – LSTM + Doc2Vec pipeline for classifying news headlines.
-- 🔍 **NLP-Powered News Research Tool** – LangChain + OpenAI + Streamlit to query financial articles.
+#### 🗞️ NLP & LLM Projects
+- 🗞️ **Financial News Sentiment Analysis** – Doc2Vec + LSTM for sentiment prediction.
+- 🧾 **Document Analyzer with LLMs** – T5-based summarizer and extractor using HuggingFace Transformers.
+- 🔍 **NLP-Powered News Research Tool** – LangChain + Streamlit interface to query articles.
+- 🩺 **AI-Powered Health Assistant** – Conversational GenAI assistant for health info.
 
-#### 📊 Data Analysis Projects
-- 🌿 **Biodiversity Time Series Analysis** – Data wrangling and seasonal trend analysis.
-- 🌐 **Global COVID-19 Visualization Dashboard** – Data insights using Tableau and Python.
+#### 💸 GenAI + Financial Systems
+- 💼 **Smart Loan Recovery System** – Used ML & LLMs for restructuring, profiling, negotiation, and fraud detection.
 
-#### 🤖 GenAI Projects
-- 🧾 **Document Analyzer with LLMs** – T5 and NLP stack for extracting and summarizing PDF content.
-- 💬 **AI-Powered Health Assistant** – LLM-based assistant for answering health-related queries.
-- 🧠 **Smart Loan Recovery System** – GenAI + ML to simulate repayment, negotiate terms, detect fraud.
+#### 📊 Data Analysis & Visualization
+- 🌿 **Biodiversity Time Series Analysis** – Explored seasonal trends in ecosystem metrics.
+- 🏪 **BigMart Sales Prediction** – Regression analysis and business forecasting.
+- 🦠 **COVID-19 Dashboard** – Global data dashboard with real-time updates.
 
 ---
-## 🛠️ Technical Toolbox
+
+## 🛠️ Tech Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black)
 ![Langchain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
+
 - [LinkedIn](https://www.linkedin.com/in/himanshuwanjari)
-- [Portfolio](https://himanshu-wanjari.github.io/#) 
+- [Portfolio](https://himanshu-wanjari.github.io/#)
 - ✉️ Email: himanshuwanjari85@gmail.com
--  Mob no : 8668641920
+- 📱 Mobile: 8668641920
 
 ---
 
-*Thanks for visiting! ⭐*
-
+<p align="center"><b>📁 Explore my repositories below ⬇️</b></p>
