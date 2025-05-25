@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/himanshu-wanjari/himanshu-wanjari/blob/main/HIman_Image_github.png" alt="Hi, I'm Himanshu Wanjari" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
+  <h1 align="center">Hi 👋, I'm Himanshu Wanjari</h1>
 <h3 align="center">Data Scientist | Machine Learning Expert | NLP | Gen AI | AI Engineer | Data Analysis | Statistics & Optimization | Python  |</h3>
 
 <p align="center">
@@ -71,8 +67,9 @@
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/himanshuwanjari)
-- [Portfolio](#) (Coming Soon!)
+- [Portfolio](https://himanshu-wanjari.github.io/#) 
 - ✉️ Email: himanshuwanjari85@gmail.com
+-  Mob no : 8668641920
 
 ---
 
