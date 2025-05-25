@@ -20,29 +20,29 @@
 ### 📂 Featured Projects
 
 #### 🧠 Predictive Modeling & ML Systems
-- 💳 **Credit Card Fraud Detection** – Built classification model to detect fraudulent transactions.
-- ❤️ **Heart Disease Prediction** – Predictive analytics on patient data using logistic regression.
-- 📉 **Customer Churn Prediction** – Identified potential churners in telecom data.
-- 🎯 **Medical Insurance Cost Prediction** – Regression-based pricing model.
+- 💳 [Credit Card Fraud Detection](#) – Built classification model to detect fraudulent transactions.
+- ❤️ [Heart Disease Prediction](https://github.com/himanshu-wanjari/Heart-Disease-Prediction_ML) – Predictive analytics on patient data using logistic regression.
+- 📉 [Customer Churn Prediction](#) – Identified potential churners in telecom data.
+- 🎯 [Medical Insurance Cost Prediction](#) – Regression-based pricing model.
 
 #### 🔬 Deep Learning Applications
-- 🧠 **Breast Cancer Classification** – Binary classification using deep neural networks.
-- 🔊 **Sonar Rock vs Mine Prediction** – Sonar signal classification with ANN.
-- ⌨️ **Predictive Keyboard Model** – LSTM/Transformer to auto-suggest next words like mobile keyboards.
+- 🧠 [Breast Cancer Classification](#) – Binary classification using deep neural networks.
+- 🔊 [Sonar Rock vs Mine Prediction](#) – Sonar signal classification with ANN.
+- ⌨️ [Predictive Keyboard Model](#) – LSTM/Transformer to auto-suggest next words like mobile keyboards.
 
 #### 🗞️ NLP & LLM Projects
-- 🗞️ **Financial News Sentiment Analysis** – Doc2Vec + LSTM for sentiment prediction.
-- 🧾 **Document Analyzer with LLMs** – T5-based summarizer and extractor using HuggingFace Transformers.
-- 🔍 **NLP-Powered News Research Tool** – LangChain + Streamlit interface to query articles.
-- 🩺 **AI-Powered Health Assistant** – Conversational GenAI assistant for health info.
+- 🗞️ [Financial News Sentiment Analysis](#) – Doc2Vec + LSTM for sentiment prediction.
+- 🧾 [Document Analyzer with LLMs](#) – T5-based summarizer and extractor using HuggingFace Transformers.
+- 🔍 [NLP-Powered News Research Tool](#) – LangChain + Streamlit interface to query articles.
+- 🩺 [AI-Powered Health Assistant](#) – Conversational GenAI assistant for health info.
 
 #### 💸 GenAI + Financial Systems
-- 💼 **Smart Loan Recovery System** – Used ML & LLMs for restructuring, profiling, negotiation, and fraud detection.
+- 💼 [Smart Loan Recovery System](#) – Used ML & LLMs for restructuring, profiling, negotiation, and fraud detection.
 
 #### 📊 Data Analysis & Visualization
-- 🌿 **Biodiversity Time Series Analysis** – Explored seasonal trends in ecosystem metrics.
-- 🏪 **BigMart Sales Prediction** – Regression analysis and business forecasting.
-- 🦠 **COVID-19 Dashboard** – Global data dashboard with real-time updates.
+- 🌿 [Biodiversity Time Series Analysis](#) – Explored seasonal trends in ecosystem metrics.
+- 🏪 [BigMart Sales Prediction](#) – Regression analysis and business forecasting.
+- 🦠 [COVID-19 Dashboard](#) – Global data dashboard with real-time updates.
 
 ---
 
@@ -75,3 +75,12 @@
 ---
 
 <p align="center"><b>📁 Explore my repositories below ⬇️</b></p>
+
+---
+
+## 📌 Pinned Repositories
+
+- [Heart Disease Prediction ML](https://github.com/himanshu-wanjari/Heart-Disease-Prediction_ML)
+<!-- Add more pinned repos as needed, e.g.:
+- [Another Project](https://github.com/himanshu-wanjari/Another-Project)
+-->
