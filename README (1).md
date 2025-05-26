@@ -43,6 +43,7 @@
 
 #### 🔬 Deep Learning Applications
 - 🧠 [Breast Cancer Classification](#) – Binary classification using deep neural networks.
+- 💳 [Handwritten Digits Generator-DCGAN ](#) – Digits Generation using Deep Convoluted Generative Adversarial Network
 - ⌨️ [Predictive Keyboard Model](https://github.com/himanshu-wanjari/predictive-keyboard-model) – LSTM/Transformer to auto-suggest next words like mobile keyboards.
 
 #### 🗞️ NLP & LLM Projects
