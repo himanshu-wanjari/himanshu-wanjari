@@ -34,28 +34,29 @@
 ### 📂 Featured Projects
 
 #### 🧠 Predictive Modeling & ML Systems
-- 💳 [Credit Card Fraud Detection](#) – Built classification model to detect fraudulent transactions.
+- 💳 [Credit Card Fraud Detection](https://github.com/himanshu-wanjari/Credit-Card-Fraud-Detection) – Built classification model to detect fraudulent transactions.
 - ❤️ [Heart Disease Prediction](https://github.com/himanshu-wanjari/Heart-Disease-Prediction_ML) – Predictive analytics on patient data using logistic regression.
-- 📉 [Customer Churn Prediction](#) – Identified potential churners in telecom data.
-- 🎯 [Medical Insurance Cost Prediction](#) – Regression-based pricing model.
+- 📉 [Customer Churn Prediction](https://github.com/himanshu-wanjari/Customer-Churn-Prediction-Telecom) – Identified potential churners in telecom data.
+- 🎯 [Medical Insurance Cost Prediction](https://github.com/himanshu-wanjari/Medical-Insurance-Cost-Prediction) – Regression-based pricing model.
+- 🧠 [Breast Cancer Classification](https://github.com/himanshu-wanjari/Breast-Cancer-Classification-using-ML) – Binary classification using Machine Learning.
+- 🔊 [Sonar Rock vs Mine Prediction](https://github.com/himanshu-wanjari/Sonar-Rock-vs-Mine-Prediction) – Sonar signal classification with Machine Learning.
 
 #### 🔬 Deep Learning Applications
 - 🧠 [Breast Cancer Classification](#) – Binary classification using deep neural networks.
-- 🔊 [Sonar Rock vs Mine Prediction](#) – Sonar signal classification with ANN.
-- ⌨️ [Predictive Keyboard Model](#) – LSTM/Transformer to auto-suggest next words like mobile keyboards.
+- ⌨️ [Predictive Keyboard Model](https://github.com/himanshu-wanjari/predictive-keyboard-model) – LSTM/Transformer to auto-suggest next words like mobile keyboards.
 
 #### 🗞️ NLP & LLM Projects
-- 🗞️ [Financial News Sentiment Analysis](#) – Doc2Vec + LSTM for sentiment prediction.
-- 🧾 [Document Analyzer with LLMs](#) – T5-based summarizer and extractor using HuggingFace Transformers.
+- 🗞️ [Financial News Sentiment Analysis](https://github.com/himanshu-wanjari/Fake_news_prediction) – Doc2Vec + LSTM for sentiment prediction.
+- 🧾 [Document Analyzer with LLMs](https://github.com/himanshu-wanjari/document-analysis-llm) – T5-based summarizer and extractor using HuggingFace Transformers.
 - 🔍 [NLP-Powered News Research Tool](#) – LangChain + Streamlit interface to query articles.
-- 🩺 [AI-Powered Health Assistant](#) – Conversational GenAI assistant for health info.
+- 🩺 [AI-Powered Dataframe Chatbot](https://github.com/himanshu-wanjari/Dataframe_chatbot) – Conversational GenAI assistant for health info.
 
 #### 💸 GenAI + Financial Systems
-- 💼 [Smart Loan Recovery System](#) – Used ML & LLMs for restructuring, profiling, negotiation, and fraud detection.
+- 💼 [Smart Loan Recovery System](https://github.com/himanshu-wanjari/smart-loan-recovery) – Used ML & LLMs for restructuring, profiling, negotiation, and fraud detection.
 
 #### 📊 Data Analysis & Visualization
 - 🌿 [Biodiversity Time Series Analysis](#) – Explored seasonal trends in ecosystem metrics.
-- 🏪 [BigMart Sales Prediction](#) – Regression analysis and business forecasting.
+- 🏪 [BigMart Sales Prediction](https://github.com/himanshu-wanjari/BigMart-Sales-Prediction_ML) – Regression analysis and business forecasting.
 - 🦠 [COVID-19 Dashboard](#) – Global data dashboard with real-time updates.
 
 ---
